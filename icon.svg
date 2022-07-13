@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.0" width="128.000000pt" height="128.000000pt" viewBox="0 0 128.000000 128.000000" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="654.329" y1="90" x2="654.329" y2="1158.613" id="gradient-0">
+      <stop offset="0" style="stop-color: rgba(247, 197, 105, 1)"/>
+      <stop offset="1" style="stop-color: rgba(237, 159, 13, 1)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="675.228" y1="830" x2="675.228" y2="868.131" id="gradient-1">
+      <stop offset="0" style="stop-color: rgba(247, 197, 105, 1)"/>
+      <stop offset="1" style="stop-color: rgba(237, 159, 13, 1)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="425.725" y1="813.027" x2="425.725" y2="854.091" id="gradient-2">
+      <stop offset="0" style="stop-color: rgba(247, 197, 105, 1)"/>
+      <stop offset="1" style="stop-color: rgba(237, 159, 13, 1)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="632.487" y1="630" x2="632.487" y2="799.5" id="gradient-3">
+      <stop offset="0" style="stop-color: rgba(247, 197, 105, 1)"/>
+      <stop offset="1" style="stop-color: rgba(237, 159, 13, 1)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="442.852" y1="710" x2="442.852" y2="769.131" id="gradient-4">
+      <stop offset="0" style="stop-color: rgba(247, 197, 105, 1)"/>
+      <stop offset="1" style="stop-color: rgba(237, 159, 13, 1)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="576.802" y1="525.308" x2="576.802" y2="568.384" id="gradient-5">
+      <stop offset="0" style="stop-color: rgba(247, 197, 105, 1)"/>
+      <stop offset="1" style="stop-color: rgba(237, 159, 13, 1)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="121.627" y1="73.827" x2="121.627" y2="87.31" id="gradient-6">
+      <stop offset="0" style="stop-color: rgba(247, 197, 105, 1)"/>
+      <stop offset="1" style="stop-color: rgba(237, 159, 13, 1)"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(0.000000,128.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none">
+    <path d="M624 1152 c-19 -13 -34 -50 -34 -86 0 -34 0 -35 -32 -25 -49 14 -140 11 -188 -6 -23 -8 -44 -15 -45 -15 -1 0 -8 14 -15 30 -20 47 -54 69 -93 61 -18 -5 -42 -13 -54 -19 -34 -19 -73 -72 -73 -100 0 -30 27 -76 57 -97 31 -22 35 -6 8 27 -35 41 -41 73 -20 104 18 28 90 65 111 57 22 -8 45 -52 49 -91 1 -20 3 -39 4 -41 1 -3 11 6 22 18 47 51 161 67 249 36 24 -8 45 -13 48 -10 3 3 5 29 3 58 -3 63 12 82 58 72 46 -10 81 -48 81 -88 0 -18 -6 -42 -14 -52 -13 -18 -9 -26 52 -90 75 -79 119 -156 128 -228 9 -62 2 -67 -97 -67 -85 0 -103 -11 -94 -54 16 -80 18 -73 -28 -81 -105 -16 -303 -16 -407 1 -58 9 -115 17 -126 16 -18 0 -26 12 -43 66 -31 94 -30 185 3 251 30 59 31 61 12 61 -8 0 -26 -24 -41 -54 -44 -90 -31 -251 25 -311 18 -19 18 -23 3 -74 -30 -105 -1 -331 44 -331 9 0 12 6 9 18 -5 16 11 24 126 60 197 61 214 64 323 66 l100 1 0 -29 c1 -32 19 -44 71 -45 28 -1 31 -4 26 -26 -3 -20 -1 -24 11 -19 9 3 19 14 22 24 4 11 20 20 47 24 61 10 199 58 203 70 42 141 52 169 67 177 25 13 48 62 48 99 0 24 -7 35 -29 48 -29 16 -29 17 -24 89 7 84 -4 93 -52 43 -26 -27 -117 -70 -149 -70 -8 0 -16 18 -20 48 -3 26 -19 75 -36 110 -30 64 -122 172 -146 172 -18 0 -17 10 1 34 20 26 19 86 -1 114 -30 43 -119 75 -150 54z m516 -631 c-7 -96 -17 -164 -33 -209 l-22 -67 -70 -23 c-83 -26 -160 -37 -207 -28 l-34 6 4 68 c2 37 10 74 18 83 18 20 18 59 0 84 -7 11 -18 45 -23 76 l-10 57 91 5 c99 5 214 38 262 76 15 12 29 19 31 17 2 -2 -1 -68 -7 -145z m58 -17 c2 -16 -4 -38 -12 -49 -14 -19 -15 -16 -16 33 0 39 4 53 13 50 6 -3 13 -18 15 -34z m-438 -82 c49 -40 0 -81 -107 -90 -71 -5 -76 1 -43 55 29 49 110 68 150 35z" style="fill-rule: nonzero; paint-order: fill; fill: url(#gradient-0);"/>
+    <path d="M638 863 c-32 -5 -38 -33 -8 -33 30 0 110 23 110 32 0 8 -52 8 -102 1z" style="fill-rule: nonzero; paint-order: fill; fill: url(#gradient-1);"/>
+    <path d="M353 848 c-37 -18 -27 -24 35 -24 31 1 72 -3 90 -7 25 -7 33 -5 38 8 4 9 5 17 3 19 -12 11 -147 14 -166 4z" style="fill-rule: nonzero; paint-order: fill; fill: url(#gradient-2);"/>
+    <path d="M575 780 c-8 -24 8 -46 38 -56 19 -6 17 -8 -13 -18 -19 -6 -36 -18 -38 -27 -4 -23 25 -49 54 -49 31 0 53 42 34 65 -7 8 -8 15 -3 15 15 0 33 -23 33 -42 0 -10 5 -18 10 -18 16 0 12 46 -5 60 -13 11 -12 16 5 40 22 31 18 40 -21 40 -35 0 -45 -15 -24 -36 23 -23 10 -30 -20 -10 -14 9 -25 25 -25 36 0 26 -17 26 -25 0z" style="fill-rule: nonzero; paint-order: fill; fill: url(#gradient-3);"/>
+    <path d="M413 763 c-17 -6 -16 -23 1 -23 8 0 16 -7 20 -15 3 -8 12 -15 19 -15 15 0 39 44 30 54 -7 7 -52 7 -70 -1z" style="fill-rule: nonzero; paint-order: fill; fill: url(#gradient-4);"/>
+    <path d="M566 561 c-65 -8 -70 -27 -9 -34 35 -4 53 -1 66 10 20 19 22 34 5 31 -7 0 -35 -4 -62 -7z" style="fill-rule: nonzero; paint-order: fill; fill: url(#gradient-5);"/>
+  </g>
+  <text style="fill: url(#gradient-6); font-family: Arial, sans-serif; font-size: 12px; font-style: italic; font-weight: 700; paint-order: fill; white-space: pre;" transform="matrix(0.407867, 0, 0, 0.879448, 47.05135, 18.204489)" x="83.946" y="84.7">UlyssesPooh</text>
+</svg>

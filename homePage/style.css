@@ -1,0 +1,57 @@
+:root {
+  box-sizing: border-box;
+  font-size: calc(1vw + 0.6em);
+  --blue: #66bfbf;
+  --sub-blue: #eaf6f6;
+  --white: white;
+  --red: #ff0063;
+  background-color: hsl(0, 0%, 90%);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  font-family: "Noto Serif SC", serif, Helvetica, Arial, sans-serif;
+  line-height: 1.4;
+  letter-spacing: 0.01em;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  font-size: calc(1vw + 2rem);
+  margin-top: 0.5em;
+}
+
+a {
+  background-color: var(--sub-blue);
+  text-decoration: none;
+  font-size: calc(0.5vw + 1rem);
+  border-radius: 0.5em;
+  box-shadow: 3px 2px 2px gray;
+  transition: all;
+  transition-duration: 300ms;
+}
+
+@media (min-width: 900px) {
+  a {
+    font-size: 20px;
+  }
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  box-shadow: 5px 3px 1px var(--blue);
+}
+
+a:active {
+  box-shadow: 3px 2px 1px var(--red);
+}
